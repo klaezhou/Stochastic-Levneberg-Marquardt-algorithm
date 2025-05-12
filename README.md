@@ -1,2 +1,2 @@
 # Stochastic-Levneberg-Marquardt-algorithm
-slm 
+code can been seen in master branch
